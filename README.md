@@ -64,24 +64,6 @@ My projects are most likely mods for games like Rimworld and Vintage story
 
 ---
 
-
-
-## 📂 Project Template
-
-```md
-### 🔹 Project Name
-> Short description
-
-- Key feature  
-- Key feature  
-- Key feature  
-
-🔗 Repo: [link]  
-📸 Demo: [link]
-```
-
----
-
 ## 📫 Contact
 
 * GitHub: https://github.com/Chok3y
