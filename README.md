@@ -8,52 +8,41 @@
 
 I focus on building systems that add depth and meaning to gameplay.
 I enjoy working on mechanics like progression, survival, and simulation.
+My projects are most likely mods for games like Rimworld and Vintage story
 
-* 🔧 Currently working on: *[your current focus]*
-* 🧪 Interested in: *[your interests]*
-* 🖥️ Tech: *[your main technologies]*
-* 🎯 Goal: *[your goal as a developer]*
+* 🔧 Currently working on: *Vintage Story Cooking Mod*
+* 🧪 Interested in: *Modding games and coming up with creative feature*
+* 🖥️ Tech: *C#, .NET, JSON modding*
+* 🎯 Goal: *be great modder*
 
 ---
 
 ## 🧩 Projects
 
-### 🔹 Project Name
+### 🔹 Enhanced cooking (Rimworld mod)
 
-> Short description of the project
+> A mod to game called rimworld that chages functionality of cooking in game
 
-* Feature / functionality
-* Feature / functionality
-* Feature / functionality
+* Custom buffs for ingredients
+* User friendly interface
+* Multipliers for unique ingredients
 
-🔗 Repo: [link]
-📸 Demo: [link]
-
----
-
-### 🔹 Project Name
-
-> Short description of the project
-
-* Feature / functionality
-* Feature / functionality
-* Feature / functionality
-
-🔗 Repo: [link]
-📸 Demo: [link]
+🔗 Repo: https://github.com/Chok3y/Enhanced-cooking
+📸 Steam page: https://steamcommunity.com/sharedfiles/filedetails/?id=3620303492
 
 ---
 
-### 🔹 Project Name
+### 🔹 Cooking Overhaul (Vintage Story mod *Work in progress*)
 
-> Short description of the project
+> A mod to game called Vintage Story that aim at remaking cooking in aspects like changing all ingredients and making cooking rogress more real life like 
 
-* Feature / functionality
-* Feature / functionality
-* Feature / functionality
+* Remade ingredients satiety
+* Creating brand new Vitamins need
+* Expanding cooking process
 
-🔗 Repo: [link]
-📸 Demo: [link]
+🔗 Repo: *Work in progress*
+
+
 
 ---
 
@@ -61,31 +50,21 @@ I enjoy working on mechanics like progression, survival, and simulation.
 
 **Languages**
 
-* [Language]
-* [Language]
-* [Language]
+* C# (Mostly for modding)
+* Java
 
-**Tools & Frameworks**
-
-* [Tool / Framework]
-* [Tool / Framework]
-* [Tool / Framework]
 
 ---
 
 ## 📈 Current Focus
 
-* [What you're learning / building]
-* [What you're improving]
-* [What you're exploring]
+* Learning mod making
+* improving my programming skills and making portfolio
+* Explore world of modding
 
 ---
 
-## 📊 GitHub Stats
 
-*(optional – add widgets here)*
-
----
 
 ## 📂 Project Template
 
@@ -105,16 +84,11 @@ I enjoy working on mechanics like progression, survival, and simulation.
 
 ## 📫 Contact
 
-* GitHub: https://github.com/yourusername
-* Email: [your@email.com](mailto:your@email.com)
-* Discord: yourtag
+* GitHub: https://github.com/Chok3y
+* Email: [chokey.contact@gmail.com](mailto:chokey.contact@gmail.com)
+* Discord: urbert_
 
 ---
 
-## ⚡ Fun Fact
-
-*[Something interesting about you]*
-
----
 
 ⭐ Feel free to explore my repositories!
