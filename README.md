@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 I'm currently working on: building a small open-source cooking mod for RimWorld.  <br><br>🤝 I'm looking to collaborate on: creative game mods, small open-source tools, or fun side projects with a focus on usability.  <br><br>🆘 I'm looking for help with: improving my C# code quality and automating testing workflows.  <br><br>📚 I'm currently learning: C# game modding, and modding frameworks.  <br><br>💬 Ask me about: modding RimWorld, open-source development tips, or organizing small projects on GitHub.  <br><br>🎉 Fun fact: I once built a working Notebook of death inside a video game just for fun!  <br>
+🎯 I'm currently working on: building a cooking mod for Vintage story.  <br><br>🤝 I'm looking to collaborate on: creative game mods, small open-source tools, or fun side projects with a focus on usability.  <br><br>🆘 I'm looking for help with: improving my C# code quality and automating testing workflows.  <br><br>📚 I'm currently learning: C# game modding, and modding frameworks.  <br><br>💬 Ask me about: modding RimWorld, open-source development tips, or organizing small projects on GitHub.  <br><br>🎉 Fun fact: I once built a working Notebook of death inside a video game just for fun!  <br>
 
 
 ## 🌐 Socials:
